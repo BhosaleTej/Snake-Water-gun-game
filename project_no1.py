@@ -1,5 +1,5 @@
 # 1st project snake water gun name :
-# first project
+# first project tej
 def gamewin(comp,you):
     if comp==you:
         return none
